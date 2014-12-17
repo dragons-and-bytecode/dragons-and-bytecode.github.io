@@ -1,4 +1,4 @@
 dragons-and-bytecode.github.io
 ==============================
 
-Dragons &amp; Bytecode Company Page
+Dragons &amp; Bytecode Company Page.
